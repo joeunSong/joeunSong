@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20JoEun's%20GitHub%20👋&animation=twinkling&fontSize=35&height=250)
 
-## Skills
+## </> Skills
 <br/>
 <br/>
 <br/>
@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/nodedotjs-339933?style=flat-square&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/-react native-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/jquery-769AD?style=flat-square&logo=jquery&logoColor=black">
 <br/><br/>
 
 - Development Environment:
