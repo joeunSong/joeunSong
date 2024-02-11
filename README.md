@@ -13,7 +13,7 @@
 
 - Library & Framework:
 <br/><br/>
-  <img src="https://img.shields.io/badge/nodedotjs-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/-react native-61DAFB?style=flat-square&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/jquery-769AD?style=flat-square&logo=jquery&logoColor=black">
